@@ -14,7 +14,7 @@ class Home extends Component {
           tagline: "Studio A Has It All",
           description: "Click for more details",
           image: "../images/studio-cards/neve-1.jpg",
-          section: "/studios/#section1",
+          section: "/studios",
         },
         {
           id: 2,
@@ -22,7 +22,7 @@ class Home extends Component {
           tagline: "Our Most Famous Studio Space",
           description: "Click for more details",
           image: "../images/studio-cards/abbey-road-piano.jpg",
-          section: "/studios/#section2",
+          section: "/studios",
         },
         {
           id: 3,
@@ -30,7 +30,7 @@ class Home extends Component {
           tagline: "The Legendary Sound",
           description: "Click for more details",
           image: "../images/studio-cards/music-room.jpg",
-          section: "/studios/#section3",
+          section: "/studios",
         },
       ],
     };

@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-// import GalleryComponent from "./GalleryComponent";
-// import Studios from "./Studios";
-// import Staff from "./Staff";
+import GalleryComponent from "./GalleryComponent";
+import Studios from "./Studios";
+import Staff from "./Staff";
 import Footer from "./Footer";
 import Home from "./Home";
-// import Contact from "./Contact";
+import Contact from "./Contact";
 import About from "./About";
 import Header from "./Header";
 import { Switch, Route, Redirect, withRouter } from "react-router-dom";
@@ -17,11 +17,11 @@ class Main extends Component {
         <Switch>
           <Route path="/home" component={Home} />{" "}
           <Route path="/aboutus" component={About} />{" "}
-          {/* <Route path="/studios" component={Studios} />{" "} */}
-          {/* <Route path="/staff" component={Staff} />{" "} */}
-          {/* <Route path="/gallery" component={GalleryComponent} />{" "} */}
-          {/* <Route exact path="/contactus" component={Contact} />{" "} */}
-          {/* <Redirect to="/home" /> */}
+          <Route path="/studios" component={Studios} />{" "}
+          <Route path="/staff" component={Staff} />{" "}
+          <Route path="/gallery" component={GalleryComponent} />{" "}
+          <Route exact path="/contactus" component={Contact} />{" "}
+          <Redirect to="/home" />
         </Switch>{" "} 
         <Footer />
       </div>
