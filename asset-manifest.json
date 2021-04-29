@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Zenith_Studios_New/static/css/main.0aaa0963.chunk.css",
+    "main.js": "/React_Zenith_Studios_New/static/js/main.46c7d62d.chunk.js",
+    "main.js.map": "/React_Zenith_Studios_New/static/js/main.46c7d62d.chunk.js.map",
+    "runtime-main.js": "/React_Zenith_Studios_New/static/js/runtime-main.1f86c649.js",
+    "runtime-main.js.map": "/React_Zenith_Studios_New/static/js/runtime-main.1f86c649.js.map",
+    "static/css/2.3e474f03.chunk.css": "/React_Zenith_Studios_New/static/css/2.3e474f03.chunk.css",
+    "static/js/2.d6f76454.chunk.js": "/React_Zenith_Studios_New/static/js/2.d6f76454.chunk.js",
+    "static/js/2.d6f76454.chunk.js.map": "/React_Zenith_Studios_New/static/js/2.d6f76454.chunk.js.map",
+    "static/js/3.2f038d11.chunk.js": "/React_Zenith_Studios_New/static/js/3.2f038d11.chunk.js",
+    "static/js/3.2f038d11.chunk.js.map": "/React_Zenith_Studios_New/static/js/3.2f038d11.chunk.js.map",
+    "index.html": "/React_Zenith_Studios_New/index.html",
+    "static/css/2.3e474f03.chunk.css.map": "/React_Zenith_Studios_New/static/css/2.3e474f03.chunk.css.map",
+    "static/css/main.0aaa0963.chunk.css.map": "/React_Zenith_Studios_New/static/css/main.0aaa0963.chunk.css.map",
+    "static/js/2.d6f76454.chunk.js.LICENSE.txt": "/React_Zenith_Studios_New/static/js/2.d6f76454.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/React_Zenith_Studios_New/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f86c649.js",
+    "static/css/2.3e474f03.chunk.css",
+    "static/js/2.d6f76454.chunk.js",
+    "static/css/main.0aaa0963.chunk.css",
+    "static/js/main.46c7d62d.chunk.js"
+  ]
+}
