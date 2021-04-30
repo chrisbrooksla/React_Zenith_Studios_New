@@ -29,7 +29,7 @@ function Footer(props) {
               </li>
             </ul>
           </div>
-          <div className="col-6 col-sm-3 text-center">
+          <div className="col-6 col-sm-4 text-center">
             <h5>Social</h5>
             <a
               className="btn btn-social-icon btn-instagram"
